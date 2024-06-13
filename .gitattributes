@@ -1,0 +1,2 @@
+models/movie_rating_model.joblib filter=lfs diff=lfs merge=lfs -text
+data/sample_dataset.csv filter=lfs diff=lfs merge=lfs -text
