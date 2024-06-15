@@ -1,1 +1,4 @@
 .DS_Store
+data/sample_dataset.csv
+models/movie_rating_model.joblib
+*.pyc
